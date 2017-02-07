@@ -1,0 +1,2 @@
+# GoogleTranslateCN
+PopClip extension, GoogleTranslate
